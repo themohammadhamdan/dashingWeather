@@ -18,5 +18,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.9',
     ],
-    install_requires=[],  # Add any dependencies your package requires
+    install_requires=['numpy', 'dash', 'pandas', 'plotly', 
+                      'Image', 'plotly.express', 'BytesIO', 'requests', 
+                      'json', 'dash', 'dash.dependencies', 'datetime'], 
 )

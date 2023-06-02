@@ -1,4 +1,5 @@
-# This is version 3.7 of the app, which allows the "enter" button to be clicked to trigger callback
+# dashingWeather v1.0
+# created by Mohammad Hamdan
 
 # importing packages and functions
 
